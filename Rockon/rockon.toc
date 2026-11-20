@@ -1,0 +1,5 @@
+## Interface: 50001
+## Title: RockonInvite
+## Author: Rockon - VanillaGaming
+## Notes: Massinvite. Sharing ist Caring.
+Rockon.lua
